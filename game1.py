@@ -59,7 +59,7 @@ class Game:
     def print_result(self):
         print(f"Computer's pick: {self.computer_pick}")
         print(f'Your pick: {self.user_pick}')
-        print(f'You {self.result}')
+        print(f'Game is  {self.result}')
 
 
 # create an object of the Game class
